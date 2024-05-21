@@ -1,0 +1,2217 @@
+fileFormatVersion: 2
+guid: 64a48ad8791cbd3429f2ca8a08efea61
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 357
+        width: 122
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc4e6fa1fde8cc4d902753e407ae0bd
+      internalID: 1331503800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 382
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13282a49150bc8f46a35bb9e518d6d5a
+      internalID: 1246349383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 367
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5119256b2b9eb4c4c84e2954caa8bb80
+      internalID: 990120547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 365
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73735fc28cd42c041b9825fd60c0250c
+      internalID: 1560784280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 367
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1548d3f03e71631489f6ef8ba374f405
+      internalID: -918189860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 367
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22ff48f27fcbc640926abab1544be24
+      internalID: 307549892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 188
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0e160e899dbd64987ef46b9ee4564b
+      internalID: -150062911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 312
+        width: 128
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2329e948d5d16a24d8e05c3607d18e33
+      internalID: -667595554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 264
+        width: 128
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2481676fbf586f946a3f813fa9f25478
+      internalID: -1114837099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 302
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0b063eb9b3efe49933c2e067df23ef
+      internalID: -2056653922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 302
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fde2e62f9e44147b0388c9d6ec3ef7
+      internalID: -1413215067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 302
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef7d77fe15d0dc4393032eb2a010afa
+      internalID: 2009130144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 302
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1d4d15c6a096a4ca1f96399210036b
+      internalID: -2026932021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 245
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a622e84827eee4ead9e776111cfe8a
+      internalID: -1217188744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 245
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4139d768251499d488306b0de2846e30
+      internalID: -1629820176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 244
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becdb149f2d726c40a8c6ede4f9ef63d
+      internalID: 764468884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 223
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829f3fbe5c618914780667e4827d473e
+      internalID: -1949960258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 223
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de814b38b6d9bb744bd49ac6d6284c2b
+      internalID: 795851291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 223
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2f55d990c11bf4790dae1dfa49ab16
+      internalID: 255972630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 223
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2037d86ffb42a469c5887f22728918
+      internalID: 1360002010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 223
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd49e8b8bbed8474cb0bafe5aee4cd9f
+      internalID: -977594943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 210
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bb187c20f41b247b44472badf35b8b
+      internalID: -1374228661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 190
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718d537091a94274ebb858130ffc5e50
+      internalID: 136672980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad3944d175a28c43bf013860844b536
+      internalID: -1103122272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 179
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96f4e643d2a76042a7cb3c68fcbf145
+      internalID: 1872153694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019252a7536970946bd5dd08a537ca4f
+      internalID: -2071499151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 180
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6086bd92ad1038a48b6d6969437a61ae
+      internalID: -693042376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 168
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd31e2b3a698da498a8cb87e3d2cdfd
+      internalID: 942192517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 168
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19d998a5b6db2b4eb881d180ce7a4ea
+      internalID: 1904510956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 168
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1c06a2d7d09574fbde70f8a050a803
+      internalID: 2125139757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 157
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0124be93db499499af532c89e90c4a
+      internalID: 280386599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 154
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19311e5d740e53148a4dd5c1ae4dd35d
+      internalID: -1115614504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 36
+        width: 284
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d900806f221d5a343827bbd8303207f1
+      internalID: 2034500079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 146
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2b7127a2a56b844abb91fb5697da8e
+      internalID: -2003308765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 142
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d983c0ed16131443be3b50f8d67b675
+      internalID: -1403608036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 118
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadc52355393b8b4e80b898390345084
+      internalID: -1282717572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 118
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e23efb9c4927814e9c8dc7d3c971e11
+      internalID: 648194903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 118
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f870753dabe4c3447bf73620959dfaff
+      internalID: -912494413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_38
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 118
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00e992a148a2ad40bfb90d500f2a798
+      internalID: -1080400488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_39
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 118
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3782c654a4b318446bfb0bab57047c4c
+      internalID: 1025247478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 118
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee8c66e4e4239144b086a0b2f30cf2a
+      internalID: -355142555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 118
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc16387504c5c40a2acade8085d5c3
+      internalID: 186880802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_42
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 118
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f04856158cc07b44bb918b79b5176f0
+      internalID: 358193343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 118
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ef05add55f81246bf8bd9e7defea37
+      internalID: 1304682264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_44
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 118
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b6d8c909d137b479355d2971f29666
+      internalID: 758298815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 99
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e594aa9dc61c40458e4bbfdd6bc835c
+      internalID: 1728867097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_46
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 99
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdd6b9f4ac07dd40b60c6899f26d901
+      internalID: -1317963110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 99
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb958e5a47f1f9d46b73ba642ffcb2ee
+      internalID: 746045627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_48
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 99
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7735ef82eea04bb4bb52afc4f662be5f
+      internalID: 848315965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_49
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 99
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8809b6a4b35f5974699edba83f2ebdde
+      internalID: 1545402974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_50
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 99
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e294e917ea288c044b0fb8210f03eaf2
+      internalID: 1874318028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 98
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1449294a4ea2fc469b128aca6a234db
+      internalID: -102376334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 99
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353508d2866b88f4a8b0288d36f611b5
+      internalID: -1893401498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_53
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 99
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df6618d41eb11d4c9c39bb270393e92
+      internalID: -728012508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_54
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 99
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6caf41cca168046ab271fbb8eccbc0
+      internalID: 574926858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 80
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d7c4c2aadd68d4e8f862c1787a38a1
+      internalID: 677977553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_56
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 80
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd9a7931df82f441b4e2040884467e8
+      internalID: -650994315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_57
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 80
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866a0645c165e744e87d24d800446175
+      internalID: -1472787134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 80
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5f5695eb046ed44ac976bfcffae351
+      internalID: -769286567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 80
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a257f1a68ec124146becf1af9b5e8f3a
+      internalID: -652598563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_60
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 80
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e30676acce80ef429e5eb0cd04bff6f
+      internalID: -2118784165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_61
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 65
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c925f4684edad54aa30e2ed591f0332
+      internalID: -1177856427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_62
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 46
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98366ecb4d8375b429bf677531375847
+      internalID: 836457376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_63
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 65
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9cef231f10e254bbb6c0ca8d1c9709
+      internalID: 1690329055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_64
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 65
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdabc50ffacf0f4cae237385bbb508a
+      internalID: -1075045713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_65
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 65
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641c5860a03fc67418ed893631a24c91
+      internalID: 808405026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 65
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d841a7a3ecbf11a48a3b5ae5e826aae3
+      internalID: 1380112121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 63
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6de814f803ea0f4ab252c80d0689f6e
+      internalID: 1037921436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_68
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 65
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171f797dd0b15f8488cdf564fdaff552
+      internalID: -678850745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_69
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 63
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3b74242cf04c24197038f04c3072c5
+      internalID: -2119708796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 46
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdaae93e61e7e447ab1b5a191bd017f
+      internalID: -1699626005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_71
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d4ccd06593a524a8d738bd68537936
+      internalID: -469886592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_72
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43007cefc0c25724a959ab663759f1bf
+      internalID: -1775957607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_73
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53d3284376957c47931ab76f5fd6493
+      internalID: -750767986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_74
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfa7dc926a8aba49b3d3769ba680768
+      internalID: 772828798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_75
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c938882414ddfc4c9e7a86f0128ff4b
+      internalID: -1455034539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_76
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079608f9ca2e8e643a8d1c5709f250c4
+      internalID: -416524397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54ad569dee119d43aa2ea33d5d1da25
+      internalID: -1069403418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_78
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 46
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9013922233d794f9a3d5b65e427465
+      internalID: 1203205984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 27
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48341470ab90fb5468876894870f5b8a
+      internalID: -1268101880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_80
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 27
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aac750dac46e874a971144ee18a0270
+      internalID: -1378114773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_81
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 27
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a0e1fc5bdf29b4692d216d36bb653b
+      internalID: -41595381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_82
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 27
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41989e6f9dab9f84fb2677a17d21eea5
+      internalID: 1917611417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_83
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 25
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafafb4622ea0eb4ab6c1a6cd541c1bb
+      internalID: 17543707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_84
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 27
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925e29867d9df384fbf7d34c877239d0
+      internalID: 201662553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_85
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ba18310940e0944b43e4ad5da7e20d
+      internalID: 374057401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_86
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 7
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0173b390e90684993d296886ddcda2
+      internalID: 1113850909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_87
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddcb7355f9601547ab03064ae10d6ea
+      internalID: -604636964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_88
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 7
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec769bffecb5cb94ba098b4bcfc1b299
+      internalID: -605874645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_89
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 7
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae74d29c37390f6498cd909853644250
+      internalID: 1933081201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_90
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 7
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efc5cf83c11e6343a0701df3f4b7a06
+      internalID: 981410166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_91
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 7
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f8ebd5b6bf70b418d80edc1204833e
+      internalID: 105397105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_92
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 7
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbab34e48a35e254983a85400a5e2661
+      internalID: 1891720538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_93
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 7
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac46de19c67a87444a9bc066afe5f981
+      internalID: 2113378736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - HP Bars (1) 1_94
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 7
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1cde5c775e3b54b9c6e6e62ad4392c
+      internalID: 557617176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_0: 1331503800
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_1: 1246349383
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_10: -1413215067
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_11: 2009130144
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_12: -2026932021
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_13: -1217188744
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_14: -1629820176
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_15: 764468884
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_16: -1949960258
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_17: 795851291
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_18: 255972630
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_19: 1360002010
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_2: 990120547
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_20: -977594943
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_21: -1374228661
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_22: 136672980
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_23: -1103122272
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_24: 1872153694
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_25: -2071499151
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_26: -693042376
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_27: 942192517
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_28: 1904510956
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_29: 2125139757
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_3: 1560784280
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_30: 280386599
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_31: -1115614504
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_32: 2034500079
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_33: -2003308765
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_34: -1403608036
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_35: -1282717572
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_36: 648194903
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_37: -912494413
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_38: -1080400488
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_39: 1025247478
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_4: -918189860
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_40: -355142555
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_41: 186880802
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_42: 358193343
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_43: 1304682264
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_44: 758298815
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_45: 1728867097
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_46: -1317963110
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_47: 746045627
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_48: 848315965
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_49: 1545402974
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_5: 307549892
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_50: 1874318028
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_51: -102376334
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_52: -1893401498
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_53: -728012508
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_54: 574926858
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_55: 677977553
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_56: -650994315
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_57: -1472787134
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_58: -769286567
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_59: -652598563
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_6: -150062911
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_60: -2118784165
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_61: -1177856427
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_62: 836457376
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_63: 1690329055
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_64: -1075045713
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_65: 808405026
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_66: 1380112121
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_67: 1037921436
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_68: -678850745
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_69: -2119708796
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_7: -667595554
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_70: -1699626005
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_71: -469886592
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_72: -1775957607
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_73: -750767986
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_74: 772828798
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_75: -1455034539
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_76: -416524397
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_77: -1069403418
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_78: 1203205984
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_79: -1268101880
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_8: -1114837099
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_80: -1378114773
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_81: -41595381
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_82: 1917611417
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_83: 17543707
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_84: 201662553
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_85: 374057401
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_86: 1113850909
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_87: -604636964
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_88: -605874645
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_89: 1933081201
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_9: -2056653922
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_90: 981410166
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_91: 105397105
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_92: 1891720538
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_93: 2113378736
+      DS DSi - Pokemon Platinum - HP Bars (1) 1_94: 557617176
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

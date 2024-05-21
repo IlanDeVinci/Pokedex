@@ -1,0 +1,4153 @@
+fileFormatVersion: 2
+guid: 369cf97f6e7b9ab4c924fb365cccaae4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0009ebe9e970f49ad1a22b1f416365
+      internalID: -427470132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_1
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 497
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4bdcaaab90ce146a0eddfb58b77e02
+      internalID: 1288710332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_2
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 497
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aebca4f37db5444a77661e9793ff2f
+      internalID: 1104077087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_3
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 497
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acee45268e6f934baf0d4ed810abdbe
+      internalID: 393111350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_4
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 497
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b366b8bd3d573854da22dc353eebed9f
+      internalID: -619396930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 494
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ce27506c11cd545854f62640f4667e
+      internalID: 1005392414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_6
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 497
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d88f75f0a6bd7a4eb8f5695984b7be7
+      internalID: 1425797490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_7
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 497
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b865ab7001a4b4b9a223f777beebec
+      internalID: -96815046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 497
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa7eff9ac7cfc54a8b5b78428450d50
+      internalID: -1123191902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 497
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40d58ef35537e5448e39ee718dc57d2
+      internalID: 172230810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_10
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 497
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60be6efadc2546429c33638f4c283c2
+      internalID: -2040995922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_11
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 497
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33be694f75ba0142b5fe747102917fb
+      internalID: 1778707934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_12
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 497
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbde18c808e8d0a45b3aaa4f1774b68e
+      internalID: -439802396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_13
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 497
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0772a020d1d084eb3083ac23374ad8
+      internalID: -2137722043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_14
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 497
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be360acff36b99d44aa3d58e95efee31
+      internalID: 1241304189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_15
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 497
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0f9a17aa58431429d434966d771c97
+      internalID: -1490985328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_16
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 497
+        width: 60
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7434dfb55ceb16d47bc962389418334e
+      internalID: 1703810548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_17
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 496
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0018c1cb65d2b4ca1d12fd9198eb5c
+      internalID: -961185205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_18
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 496
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7119bcabdb58a479e30839f96443a5
+      internalID: 1797966427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_19
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 496
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0420244fc451bc4b841ce2112166d29
+      internalID: 1123238666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_20
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 496
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4110c7b6cf1c7084da1deca62a468026
+      internalID: -1916096877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_21
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 496
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee35390afc4b65d4caae1253a0ae0b70
+      internalID: -924321889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_22
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 467
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864c0b45f1f97b0448e142ffde7b7f3e
+      internalID: -658342450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_23
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 467
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62fbfdc7af2f1f4fb8e0433a6acc2d2
+      internalID: 1728804033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_24
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 467
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a9c29e16145b14c9cdb2bedea401a6
+      internalID: -1140049195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_25
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 473
+        width: 124
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4839440cb794ae46a1c886d0670f93e
+      internalID: -1195138709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_26
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 443
+        width: 120
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3db2f468f56b334db4ae1d71e90ebcb
+      internalID: -7181090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_27
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 421
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d83b7db2c75ca649a31a90606b57b60
+      internalID: 479192914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_28
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 421
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86939e0785254194c83e3eb95f23771c
+      internalID: -1834683559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_29
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 421
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee07139cfd27b24296dc9b168a2ac36
+      internalID: 1424689797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_30
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 421
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6b94bdc5b8e8145a295f3b6a647c58
+      internalID: -1601419912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_31
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 417
+        width: 79
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735a82a4922a84f4eb3356e42d39b857
+      internalID: 430891686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_32
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 406
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c934f1e342b674e9be1bed3bf76490
+      internalID: 85160794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_33
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 406
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176daec22e0a8d14b8a691759692137e
+      internalID: 1907169553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_34
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 406
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a544eed1c737047a0253bf11e2c072
+      internalID: -1303553509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_35
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 406
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f9e1913c2048748b97e67c73378e18
+      internalID: 463094816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_36
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 406
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f33d519eb0ae5a4ba4a17ca4420edba
+      internalID: -1922131387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_37
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 406
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a5b482c64077844ad032e13e80d2f3
+      internalID: 1760484851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_38
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 406
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1facd4041e511f2458e3b511dd68a5bf
+      internalID: -256296120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_39
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 406
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7c2d5b3fec3df48ac905d9f33ded3b
+      internalID: 1843331524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_40
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 386
+        width: 5
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cd7334fe5d24f4b88e316a6f053159
+      internalID: -1512989085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_41
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 406
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba80c920b19f45941b03604504b2fa82
+      internalID: 401712081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_42
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 407
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ea1931ce2f56c47b3ed3d64db6474b
+      internalID: 1096523808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_43
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 406
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f32944776666a46ae12a1480d1a29c
+      internalID: 542679947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_44
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 406
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e1bc5fa35e9bd43bd952e77da67a9a
+      internalID: 102515658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_45
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 408
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa254a06cfbdb6e4ea45258338f835a7
+      internalID: 1942655947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_46
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 406
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0c0c35030b45a4bade6c7ff41ae95e
+      internalID: -915417840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_47
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 406
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b12b8a2833d77449aeec6d6787e73bc
+      internalID: -1680089920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_48
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6284f20ce223fd45b6aa315d29d1b84
+      internalID: 1671969449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_49
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4f8ccc39f72604b93eb9996ac6da5f
+      internalID: 1531968892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_50
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fac56099e2ad44e9df1daeb63e74e6
+      internalID: 815423497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_51
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fff63b98a1ef5149adcb167bf44557e
+      internalID: 936201799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_52
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265d3664f53e39446a5b5e67c125695a
+      internalID: -67027193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_53
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d857ee9e551668241915fa22835464a1
+      internalID: -772280319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_54
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6705041a16b951144adc9f7021eeb1f1
+      internalID: -139845287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_55
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4caff65e0f2bf4589ec9f393b070ac
+      internalID: 1833879905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_56
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe3a0792dbca5498ac7353af31c1c1
+      internalID: 18004448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f4d8ecd1387904495ca1ec049f3a12
+      internalID: -326094825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_58
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766a04424734a6a4f851261c61291176
+      internalID: 2005139722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_59
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b96e4ce99250e4da047c5388b64fda
+      internalID: 589353286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_60
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e6c93cf4b6eb34ea5d2581bf54fab9
+      internalID: 1781782617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_61
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12b614d56bc1094d9eda7e008e82ab1
+      internalID: 1923354974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_62
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363fd009c223aa149ba0af0c7394e3bc
+      internalID: 971699369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_63
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a05b54b1ba35247a6b4750befc7091
+      internalID: 66613468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_64
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725fd8c8b5ea08d4a9668ace92a29f09
+      internalID: -1351789093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_65
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a983572b71783174ca8fe9f4cc409b80
+      internalID: -1117612283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_66
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3c6f62b3ed65d4dbda0a8f68d02f0b
+      internalID: -434239630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_67
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eb0413d74f8b44a98050cfd41f4232
+      internalID: -1393049405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_68
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319afe029c4b6104791b90508f3c91c1
+      internalID: 754224901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_69
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc296851f2758d4d8f21ab315f409e2
+      internalID: -30575836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_70
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeb4a5574d024a47b21ff336660be67
+      internalID: -700908476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_71
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc570651ededcd4c8993febe124d034
+      internalID: 1175918406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_72
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 396
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5b75d19246cd34bab670ae817ade53
+      internalID: 337601035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_73
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b340875a61608084c98b9b8b83cb4989
+      internalID: -129669107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_74
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 386
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbba43c9ea9943489e85c2934468082
+      internalID: 2081883096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34f66021df5d6343bae4491bf8193ac
+      internalID: -967409458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_76
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 386
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580228e9ce0406d459f67fad2d88f3d3
+      internalID: 1456731902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_77
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0229abcd352c4d4ab0ac44cad22ac67
+      internalID: 350624625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_78
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 386
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde6e13dc4f530b41a759507064a3643
+      internalID: 2003908350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_79
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b68dd69efadd69448c8f20b70b50b9d
+      internalID: -1090365542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_80
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 386
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438c9364aceb2614e90091a3807f61d7
+      internalID: 1241289568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_81
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 386
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9808bebb41c701b49bad7b5ab9194923
+      internalID: 1432169823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_82
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 386
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ba9c1cfe2e51e4f8245c077e0d362a
+      internalID: 1832392236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_83
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 386
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f814a46ba78bc4eaa54279ca99272f
+      internalID: 1217258836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_84
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0130a6e49d60d459adf6f5c32fdaed
+      internalID: -1106580512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_85
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0c55fd46472534888652274d888700
+      internalID: -251517112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b56fc509d51244d99f89c14b62ce31
+      internalID: 384596402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_87
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4b79c7df3671f4c87005c29b155b2b
+      internalID: -17776695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_88
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc644f0fd7459745af4f9d0a662fed9
+      internalID: 995696880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_89
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d917e63cc38e44baed30219b414cf8
+      internalID: -53161770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_90
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d770113c5bed7e47b8cf7ebb20747aa
+      internalID: -1656318396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_91
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 386
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf77aae01d545243bc0449514791604
+      internalID: 202704253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_92
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab9cf8e6917ee24c80a82aa99aca0a9
+      internalID: -1317457251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_93
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf72bfb7e22c03498164a46590ffe60
+      internalID: -444771742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_94
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de51b0de90ba904ea600a158a9567a0
+      internalID: -1547067679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_95
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703dae5dafa5929408feea9e516dd804
+      internalID: 934327132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_96
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b089ed07cce0f846a3311d3106f2bd4
+      internalID: 654404473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_97
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 386
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a89b6b501ff124e9048405c4296f6f
+      internalID: 58629010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_98
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 376
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79b9c46dfd5b804983ce9150738d694
+      internalID: -1480961853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_99
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 376
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966fd1fbbb0edb8478f18eb77c7ab705
+      internalID: -1592644454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_100
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 379
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c6e1eee6d1bb143ae44145252b13b0
+      internalID: 443598918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_101
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 376
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827fb6cabeb432149889dd99d954f54f
+      internalID: 1846547371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_102
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95eb6b4a993fd8459518a59299f1b57
+      internalID: 1157549835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_103
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 375
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3a3f5f35a87a9428d16a2fe4663338
+      internalID: -1267602484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_104
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 375
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0295ef64d30441e41ab71fe21cf8460e
+      internalID: 632151865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_105
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 375
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07a418536fb47643978e4137597f8b0
+      internalID: 1876879306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_106
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 375
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d2fcae7501b404badc964a91f8cc6b
+      internalID: 671189427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_107
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 379
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae54d56e41fcbfc45814ec2b6eca7410
+      internalID: 648575449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_108
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 375
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2654a961f83dd084a99e3c9cf6491834
+      internalID: -1780522752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_109
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 375
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08a975513739ab42a6339ea6c61af10
+      internalID: -1674471965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_110
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 378
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a007e830061864e98286fb154352ee
+      internalID: 1290061351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_111
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 376
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68150fc35e104164bbc5117e3316fc3c
+      internalID: -194335945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_112
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 375
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c3489848cf0c44db1d8e9ac28cce66
+      internalID: -1836409793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_113
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 365
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5590592916e6be84bb477bd7f6d5e48e
+      internalID: 1286757152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_114
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 365
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b51fc1486d2a242be818482291ec18
+      internalID: -287730377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_115
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 365
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b8ddd94a378bb4e9b2681fed346296
+      internalID: -194426478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_116
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 365
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0fffc669bbfc04480c08e89babb3a9
+      internalID: 2111151726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_117
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 365
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d460dad5c7223e4b859e575e61edd47
+      internalID: -795415391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_118
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 365
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ec402d2d2f13f4aa51d46fb8764b49
+      internalID: 224968513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_119
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 365
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b92af8e53a6c0408dfe114bfdcb864
+      internalID: 1501693086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_120
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 365
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b3cf8421a9e994b9990984d2434228
+      internalID: 187433480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_121
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 365
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39055a1e968513742bb420bf14050584
+      internalID: 36792933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_122
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 353
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc012b3d6b9b8de408b1470d6291e16a
+      internalID: 86579729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_123
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 353
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0035724138737145946a0cd83b73198
+      internalID: 1449807438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_124
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 353
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6df8cdaecb820142a4bb2a46b655b6e
+      internalID: 405666110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_125
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 328
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efebd19c5a15f064ba6bc50f00e5151c
+      internalID: 831613660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_126
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 335
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f71fcb9ff069dd42b10b4ae0533fe93
+      internalID: 35768098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_127
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 342
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbc256036feb6e4eb27f20cf3821e88
+      internalID: 779427227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_128
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 328
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5f2e211481fd94c8c9e982761e0992
+      internalID: -739380912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_129
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 328
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9c0743492822047b0e7fb06c7b578b
+      internalID: -148119002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_130
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 328
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1c27a6b18db254f9504323992aa1c4
+      internalID: 211680592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_131
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 335
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607aced8dc21cc843864e5109b6056ce
+      internalID: -1951504403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_132
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 328
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac79e98f6f265aa4185bc4b08ed2d7da
+      internalID: -1893686775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_133
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 328
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96f4d0addeee92439d941f9c9e78f95
+      internalID: 1858732044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_134
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 335
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9194d57878dea94c8c7c7b1ff829c91
+      internalID: 2123109368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_135
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 335
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c3e13460a2793478398ded29bb8243
+      internalID: -337234391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_136
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 333
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d7ff747f209c04c94cca7edd89fc02
+      internalID: 1481442332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_137
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1247990eaaed0a7429b6a5b18ddaf331
+      internalID: -1407947411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_138
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 328
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d02f6e06bc046047a4507f3f50e0c43
+      internalID: 339515734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_139
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 314
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3571a2cfdb9523740a89c7f64d24e14b
+      internalID: -1724693650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_140
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 328
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1bcc71715796744a693a4e3318480f
+      internalID: 1677723360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_141
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 328
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006d716e490487a499a8f3df6106a199
+      internalID: -25101841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_142
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 328
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8918cc319af54f747884104eb85bc9b1
+      internalID: -748208487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_143
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 314
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b73457ef2413f047999faa7a8c6a03e
+      internalID: -1001207578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_144
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 314
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3a11d3233d7c64a8387909b831d071
+      internalID: 1358497657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_145
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 314
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de6a93b2f496c245ac5105a7adfe589
+      internalID: -747402252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_146
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 305
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366d751893b3c3b408a0b0e8ed183b27
+      internalID: 755376944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_147
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 305
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb21377d27c2544dbd78d0c9c211143
+      internalID: -136148156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_148
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 305
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b289da812d96e4eb3e0030f8b36d60
+      internalID: 1122964408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_149
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 305
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297098234b9e798448bb0d0e1efaade2
+      internalID: -352778181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_150
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 305
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc204e3f53ad26143ac6c9e06fd9bfcb
+      internalID: 1664832783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_151
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 305
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed7138aaf32dc1449713b6ca77878ae
+      internalID: 793079611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_152
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 305
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3884baeab53912f488db5ed804bd4b92
+      internalID: 1906013108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_153
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 305
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0739e5e5cfc9ed34f9bc119ce6c387a5
+      internalID: -1987442295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_154
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 305
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc4c96c296ecb44e93908013fa9c716
+      internalID: -185312608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_155
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 233
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286d1407e05fe8348a95c6b2cacbd1d9
+      internalID: 406658704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_156
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 233
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961dbf283df7520499246fc1d0beb0da
+      internalID: -800180378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_157
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 233
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fd2e4a229c5fc4d8d4ec5f723fe4a6
+      internalID: 516765057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_158
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 215
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3466982e93879c04faf01bc8420b360a
+      internalID: 48942961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_159
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 212
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2531d1161b086e640852b4aea9e5c6c2
+      internalID: -510364087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_160
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 212
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6250395f1e222c46840e58836e39bbd
+      internalID: 930655585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_161
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 215
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f260339d633a2e4e8ea043f7af6a7e3
+      internalID: -1859246764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_162
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 215
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3e0011957a0e54d81b824d4ae697ad
+      internalID: 792215220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_163
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 215
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45947ced29c8f645b888ff035b37b30
+      internalID: -1899129523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_164
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 212
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b45a50bd222b304dbf674b34072e565
+      internalID: -1372244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_165
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 215
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4686f58136a60409dde5f72b843ef0
+      internalID: -210979922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_166
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 215
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38668aca613d44347816b7fac55c450c
+      internalID: 470260846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_167
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 212
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb4a8960c5ea36469dc7722fbfd189f
+      internalID: 1346999317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_168
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 199
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c70350028cba74488fea8761572234
+      internalID: 1190680501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_169
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 199
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed91956d01c364049bebbb8d3f6bcbf4
+      internalID: -1528449848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_170
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0e34e4a1b378c45a88297ef7b662b3
+      internalID: 963343302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_171
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 199
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd924e5dc76ec442abc37c6c6487639
+      internalID: -1077195351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_172
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 199
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b7f6e8fa4789d4a9aa48718d647fc7
+      internalID: 221422895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_173
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9891951649e6f0f4ba5fcad75be04fa5
+      internalID: -1440360389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_174
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8f2c8e2b295604ab23842ed4fb46d1
+      internalID: 1036551231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_175
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 199
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6359f96cbb95a6c49a0718a49e18ce9e
+      internalID: -1387614047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_176
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310d74918792c954ab102a375497da91
+      internalID: 1821687136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_177
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82e05c50a4e00c4cbf7dad10f9485a4
+      internalID: -362027458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_178
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be00e6d15619fe46be830b355f7239b
+      internalID: 236616587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_179
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 199
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37b5dba424941d4d92431082b89918c
+      internalID: 1435009676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_180
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3fdd54d73491a4b8a6274802a5f7b5
+      internalID: 941729850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_181
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 199
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6af7aaed0c90a4080a81fcfc966086
+      internalID: -1405252225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Battle HUD_182
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4096da029aaa785438f18a1113dd3f50
+      internalID: -854738045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Pokemon Black White - Battle HUD_0: -427470132
+      DS DSi - Pokemon Black White - Battle HUD_1: 1288710332
+      DS DSi - Pokemon Black White - Battle HUD_10: -2040995922
+      DS DSi - Pokemon Black White - Battle HUD_100: 443598918
+      DS DSi - Pokemon Black White - Battle HUD_101: 1846547371
+      DS DSi - Pokemon Black White - Battle HUD_102: 1157549835
+      DS DSi - Pokemon Black White - Battle HUD_103: -1267602484
+      DS DSi - Pokemon Black White - Battle HUD_104: 632151865
+      DS DSi - Pokemon Black White - Battle HUD_105: 1876879306
+      DS DSi - Pokemon Black White - Battle HUD_106: 671189427
+      DS DSi - Pokemon Black White - Battle HUD_107: 648575449
+      DS DSi - Pokemon Black White - Battle HUD_108: -1780522752
+      DS DSi - Pokemon Black White - Battle HUD_109: -1674471965
+      DS DSi - Pokemon Black White - Battle HUD_11: 1778707934
+      DS DSi - Pokemon Black White - Battle HUD_110: 1290061351
+      DS DSi - Pokemon Black White - Battle HUD_111: -194335945
+      DS DSi - Pokemon Black White - Battle HUD_112: -1836409793
+      DS DSi - Pokemon Black White - Battle HUD_113: 1286757152
+      DS DSi - Pokemon Black White - Battle HUD_114: -287730377
+      DS DSi - Pokemon Black White - Battle HUD_115: -194426478
+      DS DSi - Pokemon Black White - Battle HUD_116: 2111151726
+      DS DSi - Pokemon Black White - Battle HUD_117: -795415391
+      DS DSi - Pokemon Black White - Battle HUD_118: 224968513
+      DS DSi - Pokemon Black White - Battle HUD_119: 1501693086
+      DS DSi - Pokemon Black White - Battle HUD_12: -439802396
+      DS DSi - Pokemon Black White - Battle HUD_120: 187433480
+      DS DSi - Pokemon Black White - Battle HUD_121: 36792933
+      DS DSi - Pokemon Black White - Battle HUD_122: 86579729
+      DS DSi - Pokemon Black White - Battle HUD_123: 1449807438
+      DS DSi - Pokemon Black White - Battle HUD_124: 405666110
+      DS DSi - Pokemon Black White - Battle HUD_125: 831613660
+      DS DSi - Pokemon Black White - Battle HUD_126: 35768098
+      DS DSi - Pokemon Black White - Battle HUD_127: 779427227
+      DS DSi - Pokemon Black White - Battle HUD_128: -739380912
+      DS DSi - Pokemon Black White - Battle HUD_129: -148119002
+      DS DSi - Pokemon Black White - Battle HUD_13: -2137722043
+      DS DSi - Pokemon Black White - Battle HUD_130: 211680592
+      DS DSi - Pokemon Black White - Battle HUD_131: -1951504403
+      DS DSi - Pokemon Black White - Battle HUD_132: -1893686775
+      DS DSi - Pokemon Black White - Battle HUD_133: 1858732044
+      DS DSi - Pokemon Black White - Battle HUD_134: 2123109368
+      DS DSi - Pokemon Black White - Battle HUD_135: -337234391
+      DS DSi - Pokemon Black White - Battle HUD_136: 1481442332
+      DS DSi - Pokemon Black White - Battle HUD_137: -1407947411
+      DS DSi - Pokemon Black White - Battle HUD_138: 339515734
+      DS DSi - Pokemon Black White - Battle HUD_139: -1724693650
+      DS DSi - Pokemon Black White - Battle HUD_14: 1241304189
+      DS DSi - Pokemon Black White - Battle HUD_140: 1677723360
+      DS DSi - Pokemon Black White - Battle HUD_141: -25101841
+      DS DSi - Pokemon Black White - Battle HUD_142: -748208487
+      DS DSi - Pokemon Black White - Battle HUD_143: -1001207578
+      DS DSi - Pokemon Black White - Battle HUD_144: 1358497657
+      DS DSi - Pokemon Black White - Battle HUD_145: -747402252
+      DS DSi - Pokemon Black White - Battle HUD_146: 755376944
+      DS DSi - Pokemon Black White - Battle HUD_147: -136148156
+      DS DSi - Pokemon Black White - Battle HUD_148: 1122964408
+      DS DSi - Pokemon Black White - Battle HUD_149: -352778181
+      DS DSi - Pokemon Black White - Battle HUD_15: -1490985328
+      DS DSi - Pokemon Black White - Battle HUD_150: 1664832783
+      DS DSi - Pokemon Black White - Battle HUD_151: 793079611
+      DS DSi - Pokemon Black White - Battle HUD_152: 1906013108
+      DS DSi - Pokemon Black White - Battle HUD_153: -1987442295
+      DS DSi - Pokemon Black White - Battle HUD_154: -185312608
+      DS DSi - Pokemon Black White - Battle HUD_155: 406658704
+      DS DSi - Pokemon Black White - Battle HUD_156: -800180378
+      DS DSi - Pokemon Black White - Battle HUD_157: 516765057
+      DS DSi - Pokemon Black White - Battle HUD_158: 48942961
+      DS DSi - Pokemon Black White - Battle HUD_159: -510364087
+      DS DSi - Pokemon Black White - Battle HUD_16: 1703810548
+      DS DSi - Pokemon Black White - Battle HUD_160: 930655585
+      DS DSi - Pokemon Black White - Battle HUD_161: -1859246764
+      DS DSi - Pokemon Black White - Battle HUD_162: 792215220
+      DS DSi - Pokemon Black White - Battle HUD_163: -1899129523
+      DS DSi - Pokemon Black White - Battle HUD_164: -1372244
+      DS DSi - Pokemon Black White - Battle HUD_165: -210979922
+      DS DSi - Pokemon Black White - Battle HUD_166: 470260846
+      DS DSi - Pokemon Black White - Battle HUD_167: 1346999317
+      DS DSi - Pokemon Black White - Battle HUD_168: 1190680501
+      DS DSi - Pokemon Black White - Battle HUD_169: -1528449848
+      DS DSi - Pokemon Black White - Battle HUD_17: -961185205
+      DS DSi - Pokemon Black White - Battle HUD_170: 963343302
+      DS DSi - Pokemon Black White - Battle HUD_171: -1077195351
+      DS DSi - Pokemon Black White - Battle HUD_172: 221422895
+      DS DSi - Pokemon Black White - Battle HUD_173: -1440360389
+      DS DSi - Pokemon Black White - Battle HUD_174: 1036551231
+      DS DSi - Pokemon Black White - Battle HUD_175: -1387614047
+      DS DSi - Pokemon Black White - Battle HUD_176: 1821687136
+      DS DSi - Pokemon Black White - Battle HUD_177: -362027458
+      DS DSi - Pokemon Black White - Battle HUD_178: 236616587
+      DS DSi - Pokemon Black White - Battle HUD_179: 1435009676
+      DS DSi - Pokemon Black White - Battle HUD_18: 1797966427
+      DS DSi - Pokemon Black White - Battle HUD_180: 941729850
+      DS DSi - Pokemon Black White - Battle HUD_181: -1405252225
+      DS DSi - Pokemon Black White - Battle HUD_182: -854738045
+      DS DSi - Pokemon Black White - Battle HUD_19: 1123238666
+      DS DSi - Pokemon Black White - Battle HUD_2: 1104077087
+      DS DSi - Pokemon Black White - Battle HUD_20: -1916096877
+      DS DSi - Pokemon Black White - Battle HUD_21: -924321889
+      DS DSi - Pokemon Black White - Battle HUD_22: -658342450
+      DS DSi - Pokemon Black White - Battle HUD_23: 1728804033
+      DS DSi - Pokemon Black White - Battle HUD_24: -1140049195
+      DS DSi - Pokemon Black White - Battle HUD_25: -1195138709
+      DS DSi - Pokemon Black White - Battle HUD_26: -7181090
+      DS DSi - Pokemon Black White - Battle HUD_27: 479192914
+      DS DSi - Pokemon Black White - Battle HUD_28: -1834683559
+      DS DSi - Pokemon Black White - Battle HUD_29: 1424689797
+      DS DSi - Pokemon Black White - Battle HUD_3: 393111350
+      DS DSi - Pokemon Black White - Battle HUD_30: -1601419912
+      DS DSi - Pokemon Black White - Battle HUD_31: 430891686
+      DS DSi - Pokemon Black White - Battle HUD_32: 85160794
+      DS DSi - Pokemon Black White - Battle HUD_33: 1907169553
+      DS DSi - Pokemon Black White - Battle HUD_34: -1303553509
+      DS DSi - Pokemon Black White - Battle HUD_35: 463094816
+      DS DSi - Pokemon Black White - Battle HUD_36: -1922131387
+      DS DSi - Pokemon Black White - Battle HUD_37: 1760484851
+      DS DSi - Pokemon Black White - Battle HUD_38: -256296120
+      DS DSi - Pokemon Black White - Battle HUD_39: 1843331524
+      DS DSi - Pokemon Black White - Battle HUD_4: -619396930
+      DS DSi - Pokemon Black White - Battle HUD_40: -1512989085
+      DS DSi - Pokemon Black White - Battle HUD_41: 401712081
+      DS DSi - Pokemon Black White - Battle HUD_42: 1096523808
+      DS DSi - Pokemon Black White - Battle HUD_43: 542679947
+      DS DSi - Pokemon Black White - Battle HUD_44: 102515658
+      DS DSi - Pokemon Black White - Battle HUD_45: 1942655947
+      DS DSi - Pokemon Black White - Battle HUD_46: -915417840
+      DS DSi - Pokemon Black White - Battle HUD_47: -1680089920
+      DS DSi - Pokemon Black White - Battle HUD_48: 1671969449
+      DS DSi - Pokemon Black White - Battle HUD_49: 1531968892
+      DS DSi - Pokemon Black White - Battle HUD_5: 1005392414
+      DS DSi - Pokemon Black White - Battle HUD_50: 815423497
+      DS DSi - Pokemon Black White - Battle HUD_51: 936201799
+      DS DSi - Pokemon Black White - Battle HUD_52: -67027193
+      DS DSi - Pokemon Black White - Battle HUD_53: -772280319
+      DS DSi - Pokemon Black White - Battle HUD_54: -139845287
+      DS DSi - Pokemon Black White - Battle HUD_55: 1833879905
+      DS DSi - Pokemon Black White - Battle HUD_56: 18004448
+      DS DSi - Pokemon Black White - Battle HUD_57: -326094825
+      DS DSi - Pokemon Black White - Battle HUD_58: 2005139722
+      DS DSi - Pokemon Black White - Battle HUD_59: 589353286
+      DS DSi - Pokemon Black White - Battle HUD_6: 1425797490
+      DS DSi - Pokemon Black White - Battle HUD_60: 1781782617
+      DS DSi - Pokemon Black White - Battle HUD_61: 1923354974
+      DS DSi - Pokemon Black White - Battle HUD_62: 971699369
+      DS DSi - Pokemon Black White - Battle HUD_63: 66613468
+      DS DSi - Pokemon Black White - Battle HUD_64: -1351789093
+      DS DSi - Pokemon Black White - Battle HUD_65: -1117612283
+      DS DSi - Pokemon Black White - Battle HUD_66: -434239630
+      DS DSi - Pokemon Black White - Battle HUD_67: -1393049405
+      DS DSi - Pokemon Black White - Battle HUD_68: 754224901
+      DS DSi - Pokemon Black White - Battle HUD_69: -30575836
+      DS DSi - Pokemon Black White - Battle HUD_7: -96815046
+      DS DSi - Pokemon Black White - Battle HUD_70: -700908476
+      DS DSi - Pokemon Black White - Battle HUD_71: 1175918406
+      DS DSi - Pokemon Black White - Battle HUD_72: 337601035
+      DS DSi - Pokemon Black White - Battle HUD_73: -129669107
+      DS DSi - Pokemon Black White - Battle HUD_74: 2081883096
+      DS DSi - Pokemon Black White - Battle HUD_75: -967409458
+      DS DSi - Pokemon Black White - Battle HUD_76: 1456731902
+      DS DSi - Pokemon Black White - Battle HUD_77: 350624625
+      DS DSi - Pokemon Black White - Battle HUD_78: 2003908350
+      DS DSi - Pokemon Black White - Battle HUD_79: -1090365542
+      DS DSi - Pokemon Black White - Battle HUD_8: -1123191902
+      DS DSi - Pokemon Black White - Battle HUD_80: 1241289568
+      DS DSi - Pokemon Black White - Battle HUD_81: 1432169823
+      DS DSi - Pokemon Black White - Battle HUD_82: 1832392236
+      DS DSi - Pokemon Black White - Battle HUD_83: 1217258836
+      DS DSi - Pokemon Black White - Battle HUD_84: -1106580512
+      DS DSi - Pokemon Black White - Battle HUD_85: -251517112
+      DS DSi - Pokemon Black White - Battle HUD_86: 384596402
+      DS DSi - Pokemon Black White - Battle HUD_87: -17776695
+      DS DSi - Pokemon Black White - Battle HUD_88: 995696880
+      DS DSi - Pokemon Black White - Battle HUD_89: -53161770
+      DS DSi - Pokemon Black White - Battle HUD_9: 172230810
+      DS DSi - Pokemon Black White - Battle HUD_90: -1656318396
+      DS DSi - Pokemon Black White - Battle HUD_91: 202704253
+      DS DSi - Pokemon Black White - Battle HUD_92: -1317457251
+      DS DSi - Pokemon Black White - Battle HUD_93: -444771742
+      DS DSi - Pokemon Black White - Battle HUD_94: -1547067679
+      DS DSi - Pokemon Black White - Battle HUD_95: 934327132
+      DS DSi - Pokemon Black White - Battle HUD_96: 654404473
+      DS DSi - Pokemon Black White - Battle HUD_97: 58629010
+      DS DSi - Pokemon Black White - Battle HUD_98: -1480961853
+      DS DSi - Pokemon Black White - Battle HUD_99: -1592644454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

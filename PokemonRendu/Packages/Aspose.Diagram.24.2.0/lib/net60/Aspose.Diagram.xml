@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+  <assembly>
+    <name>Aspose.Diagram</name>
+  </assembly>
+  <members>
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.Internal.Rendering.ApsBezierSegment.#ctor(Aspose.Drawing.DrColor)" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.Internal.Rendering.PartialsData.Read(System.Byte[])" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.Internal.Rendering.PdfFunction.ValidateMinMaxArray(System.Single[],System.Int32)" -->
+    <!-- Badly formed XML comment ignored for member "P:Aspose.Diagram.Internal.Rendering.SwfContext.Bookmarks" -->
+    <!-- Badly formed XML comment ignored for member "F:Aspose.Diagram.Internal.Rendering.SwfContext.mBookmarks" -->
+    <member name="T:Aspose.Diagram.AutoLayout.NamespaceDoc">
+      <summary>
+            Contains classes to auto lay out diagrams.  
+            </summary>
+    </member>
+    <!-- Badly formed XML comment ignored for member "F:Aspose.Diagram.FileFormatType.Xltm" -->
+    <!-- Badly formed XML comment ignored for member "F:Aspose.Diagram.FileFormatType.TabDelimited" -->
+    <!-- Badly formed XML comment ignored for member "F:Aspose.Diagram.FileFormatType.Unknown" -->
+    <member name="T:Aspose.Diagram.IWarningCallback">
+      <summary>
+            Callback interface of warning.
+            </summary>
+    </member>
+    <member name="M:Aspose.Diagram.IWarningCallback.Warning(Aspose.Diagram.WarningInfo)">
+      <summary>
+            Our callback only needs to implement the "Warning" method.
+            </summary>
+      <param name="warningInfo"> warning info</param>
+    </member>
+    <member name="T:Aspose.Diagram.Manipulation.NamespaceDoc">
+      <summary>
+            Contains classes for manipulate diagrams
+            </summary>
+    </member>
+    <member name="T:Aspose.Diagram.NamespaceDoc">
+      <summary>
+            Contains classes for work with Microsoft Visio documents without utilizing Microsoft Visio. 
+            </summary>
+    </member>
+    <member name="T:Aspose.Diagram.Saving.NamespaceDoc">
+      <summary>
+            Contains classes for save options. 
+            </summary>
+    </member>
+    <member name="T:Aspose.Diagram.Saving.IStreamProvider">
+      <summary>
+            Represents the exported stream provider.
+            </summary>
+    </member>
+    <member name="M:Aspose.Diagram.Saving.IStreamProvider.InitStream(Aspose.Diagram.StreamProviderOptions)">
+      <summary>
+            Gets the stream.
+            </summary>
+      <param name="options">
+      </param>
+    </member>
+    <member name="M:Aspose.Diagram.Saving.IStreamProvider.CloseStream(Aspose.Diagram.StreamProviderOptions)">
+      <summary>
+            Closes the stream.
+            </summary>
+      <param name="options">
+      </param>
+    </member>
+    <member name="T:Aspose.Diagram.Saving.IPageSavingCallback">
+      <summary>
+            Control/Indicate progress of page saving process.
+            </summary>
+    </member>
+    <member name="M:Aspose.Diagram.Saving.IPageSavingCallback.PageStartSaving(Aspose.Diagram.Saving.PageStartSavingArgs)">
+      <summary>
+            Control/Indicate a page starts to be output.
+            </summary>
+      <param name="args">Info for a page starts saving process.</param>
+    </member>
+    <member name="M:Aspose.Diagram.Saving.IPageSavingCallback.PageEndSaving(Aspose.Diagram.Saving.PageEndSavingArgs)">
+      <summary>
+            Control/Indicate a page ends to be output.
+            </summary>
+      <param name="args">Info for a page ends saving process.</param>
+    </member>
+    <member name="T:Aspose.Diagram.Printing.NamespaceDoc">
+      <summary>
+            Contains classes for print
+            </summary>
+    </member>
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.CoshFunction.of(System.Double[],System.Int32)" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.SignFunction.of(System.Double[],System.Int32)" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.SinhFunction.of(System.Double[],System.Int32)" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.TanhFunction.of(System.Double[],System.Int32)" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.BSpline.SetSampleLimit(System.Int32)" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.GeomCurve.PtSegDistSq(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double[])" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.GroupIterator.GetGroupValue(System.Int32)" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.GroupIterator.Set(System.Int32,System.Int32)" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.GroupIterator.IsInRange(System.Int32,System.Int32)" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.MultiPath.#ctor(System.Int32)" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.ValueVector.#ctor(System.Double[],System.Int32)" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.ValueVector.Get(System.Int32)" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.ValueVector.Set(System.Double,System.Int32)" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.ValueVector.Remove(System.Int32)" -->
+    <!-- Badly formed XML comment ignored for member "M:Aspose.Diagram.ValueVector.Insert(System.Double,System.Int32)" -->
+  </members>
+</doc>
